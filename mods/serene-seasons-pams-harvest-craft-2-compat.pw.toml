@@ -1,0 +1,13 @@
+name = "Serene Seasons - Pam's Harvest Craft 2 Compat"
+filename = "sereneseasonsphc2-1.16.5-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90e04b7acb8e81707c0724dbae9db7856c51ca72"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3535745
+project-id = 549716

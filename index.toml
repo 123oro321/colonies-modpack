@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "f78f34dd603f8fe55d2e5a920717ca1a22886375c94ce0bbb1992202a0af4a6e"
+hash = "cf7c471e0c117cf5f0591d70d71a0371e8e7ce64ba670d3b02b49a48d63e22c7"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless.pw.toml"
-hash = "8f589720309123712c5801d862f39b6cadf2313c289f618e071274b0a68ff7a6"
+hash = "44562116120af8de43bb8bb832976be052a93ff78a321b357052d6fd1d51e266"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "24d958e2892df16bf19ae4457ba2147df9354ef1520e58636ac17981c2422fc5"
+hash = "2869256a89f1013125bbce5fc62265e47012ad09fd3b2cc53f37919bc3c8a042"
 metafile = true
 
 [[files]]
@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "4a4742b67901396e0d0a7ea1289279ff5cee2d9d7899fbf64f43c3ab9e062f93"
+hash = "04a92a819f7c3dff89382baf5c5fb25c1386da08ead8510ea009aa1ccc8daf02"
 metafile = true
 
 [[files]]
@@ -520,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
-hash = "e031fdc8c128699aba2bc0b71adeb148150574a9a7a3cd7a5e6f9650acc879e2"
+hash = "bdbf0e89c6bdfcac33f44921835b4a7e7b909214d99badb1d8e15200f836bb90"
 metafile = true
 
 [[files]]
@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/total-darkness.pw.toml"
-hash = "287ecedcb89eec65ff1905d53b2dab01d9c1067c7eb09165d0b1d7c5c8634edc"
+hash = "3d05d13d48e23b43b7d0ffb48f93eb234e7445b17b45024c75c45b1a5fef6711"
 metafile = true
 
 [[files]]

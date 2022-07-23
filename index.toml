@@ -305,12 +305,16 @@ file = "config/yungsbridges-forge-1_16.toml"
 hash = "c6d61758fab596edc9a33471fe1dd97d1537ab78579cf0ddda4feda81b7acb38"
 
 [[files]]
+file = "defaultconfigs/dynamictrees-server.toml"
+hash = "e94f8b28b90ff00346dc40f21dd9f25839bc131e118b1a86044f4b32eaee3d3d"
+
+[[files]]
 file = "defaultconfigs/hourglass-server.toml"
 hash = "80788beca32eae9b44ae35f6f098d08c43646b599aae469ac6496f420e919813"
 
 [[files]]
 file = "defaultconfigs/minecolonies-server.toml"
-hash = "41834ba96dc956059d867caf00bfca753dbceecae8ee09e8638b61608c5b18ec"
+hash = "09f908e8249a165a9e0a2fe529ecbe1a67dde4879575f572fa9600544084ebdc"
 
 [[files]]
 file = "defaultconfigs/solpotato-server.toml"
@@ -321,13 +325,17 @@ file = "mods/OptiFine_1.16.5_HD_U_G8.jar"
 hash = "3c76bc90ed44bce567cee7c20eb2c4361926f23a86e5367d596f6e624d0b494f"
 
 [[files]]
+file = "mods/SereneSeasons-1.16.5-4.0.1.null-universal.jar"
+hash = "f67b55a25ac849dc20862ed9d014b0a46063542ec29e3858320bf050d05ff0f7"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "78a2974be4ca1553dc4d339f6ebe6eee69e3113389b2fea2667a3678cf207c29"
 metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "cf7c471e0c117cf5f0591d70d71a0371e8e7ce64ba670d3b02b49a48d63e22c7"
+hash = "f78f34dd603f8fe55d2e5a920717ca1a22886375c94ce0bbb1992202a0af4a6e"
 metafile = true
 
 [[files]]
@@ -508,11 +516,6 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons-pams-harvest-craft-2-compat.pw.toml"
 hash = "66139aa121535bb3986308558ad53905c39ba53dea50355797b0d07b49840e46"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "74d3c1336a54e3a12c37144e3a7283a1103844674529873b9013667d24730449"
 metafile = true
 
 [[files]]

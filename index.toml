@@ -325,10 +325,6 @@ file = "mods/OptiFine_1.16.5_HD_U_G8.jar"
 hash = "3c76bc90ed44bce567cee7c20eb2c4361926f23a86e5367d596f6e624d0b494f"
 
 [[files]]
-file = "mods/SereneSeasons-1.16.5-4.0.1.null-universal.jar"
-hash = "d07d21f43ecd160c843fa4d962d1210ce16771b73e5252ad8ac1032711d89906"
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "78a2974be4ca1553dc4d339f6ebe6eee69e3113389b2fea2667a3678cf207c29"
 metafile = true
@@ -514,8 +510,18 @@ hash = "6d7e21afb6345e8f99bae1903c69141134fd10a773d5f431145a1f83cd1887ae"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons-fix.pw.toml"
+hash = "053053059f387be949ee99b744ef39c9df55726cd8e08a75aa9b8d5e291dba19"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons-pams-harvest-craft-2-compat.pw.toml"
 hash = "66139aa121535bb3986308558ad53905c39ba53dea50355797b0d07b49840e46"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "305d323e6b6b2f30e227595df0efbb64fcd59a3b5a36dadf6d9ce27942eb70d5"
 metafile = true
 
 [[files]]
@@ -592,6 +598,18 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "a71342e2c54d9ec3ff4634118ac7e978c65a8bfdcee93f51ddbc4f0a5780dd62"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "add9de6cd4cd21d1b769f86b4225bca4a40f79ae2cd4c662490edf324ce82ab2"
+
+[[files]]
+file = "optionsof.txt"
+hash = "dbc81c80ecd191f1120f511d8f971967f04b64c20bf13501fd9686fe20e59f70"
+
+[[files]]
+file = "optionsshaders.txt"
+hash = "8ac1d7e5a221f33e9c4054acb3634554b4825c22102e3caf64933b533cee4f49"
 
 [[files]]
 file = "resourcepacks/Default Emissive (RB)/assets/minecraft/blockstates/deepslate_redstone_ore.json"

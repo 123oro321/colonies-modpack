@@ -190,7 +190,7 @@ hash = "b101c668c6c658e2db126b7f6d3b9eb913537ff8903fbfce0128534299b2aea5"
 
 [[files]]
 file = "config/magnesium_extras.toml"
-hash = "dc6da98968a0cf32629e5ad24056c625e0c7399a007df48a1947f0efe86c4b53"
+hash = "a1d5a7077d4757e03d83d3c341205971f56415b6cd70d13748999696c8f23b98"
 
 [[files]]
 file = "config/mantle-client.toml"
@@ -624,15 +624,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6479ec7d91de9df3c670c4bcfa3ae6218fba4db78b2ac903eb657c9334d80ba4"
-
-[[files]]
-file = "optionsof.txt"
-hash = "dbc81c80ecd191f1120f511d8f971967f04b64c20bf13501fd9686fe20e59f70"
-
-[[files]]
-file = "optionsshaders.txt"
-hash = "8ac1d7e5a221f33e9c4054acb3634554b4825c22102e3caf64933b533cee4f49"
+hash = "eddf7e823341fbd52dd0dd9eb1fbe0969e96d4a0a9bc82cb768adb1fb7ecc81e"
 
 [[files]]
 file = "resourcepacks/Default Emissive (RB)/assets/minecraft/blockstates/deepslate_redstone_ore.json"

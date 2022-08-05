@@ -10,7 +10,7 @@
 		"Cloud Height [Raw, Default 196]" = 256
 		"Render Fog" = true
 		#Allowed Values: WINDOWED, BORDERLESS, FULLSCREEN
-		"Use Borderless Fullscreen" = "FULLSCREEN"
+		"Use Borderless Fullscreen" = "BORDERLESS"
 		"Chunk Fade In Quality (OFF, FAST, FANCY)" = "FANCY"
 
 	[Settings.Zoom]
@@ -24,7 +24,7 @@
 	[Settings."True Darkness"]
 		#Allowed Values: PITCH_BLACK, REALLY_DARK, DARK, DIM
 		"Darkness Setting (PITCH_BLACK, REALLY_DARK, DARK, DIM)" = "DARK"
-		"Use True Darkness" = true
+		"Use True Darkness" = false
 
 		[Settings."True Darkness".Advanced]
 			#Range: 0.0 ~ 1.0

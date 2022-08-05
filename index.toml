@@ -137,6 +137,10 @@ file = "config/cookingforblockheads-common.toml"
 hash = "5244234e1ed8a40febc360b1170f0429de992dbe0d99a330c2debc9cc44c2ee1"
 
 [[files]]
+file = "config/dynamic_lights_reforged.toml"
+hash = "7e962e54d72b3974c3d31b6b78166f15e30b0751d94d42502898ca60b114be9f"
+
+[[files]]
 file = "config/dynamictrees-client.toml"
 hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 
@@ -149,8 +153,16 @@ file = "config/enchdesc-client.toml"
 hash = "891c189b7c1829750c7027ec7739b08312e19404ce604b367eb05c5c1f48d426"
 
 [[files]]
+file = "config/entityculling.json"
+hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
+
+[[files]]
 file = "config/fastbench.cfg"
 hash = "1961de123e3ace252c5cc07c22115772cf93f30b14da19dfdfdf90fa6b290c84"
+
+[[files]]
+file = "config/fastsuite.cfg"
+hash = "536257fb9de1fe0aff76ee5bd9f59f9105f1b187a6bde226d027440ace65c2c3"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -205,6 +217,10 @@ file = "config/jeresources.toml"
 hash = "b101c668c6c658e2db126b7f6d3b9eb913537ff8903fbfce0128534299b2aea5"
 
 [[files]]
+file = "config/magnesium_extras.toml"
+hash = "97e9cdfad2cd4fb7f27c0d2bd6b3465566804ab67841821bbe1089c8f9342567"
+
+[[files]]
 file = "config/mantle-client.toml"
 hash = "4eb31565ff6cb05edf5a4111eef5603f59b9f9a46d3682dd9f537dfe9a53e1cc"
 
@@ -229,6 +245,18 @@ file = "config/quark-common.toml"
 hash = "4b83603c3590732dc897e4ef57e88833ed701500bf8055ca9dd4c4874b7417d1"
 
 [[files]]
+file = "config/roadrunner/client.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "config/roadrunner/common.toml"
+hash = "c40b17471e0763f40d971a3d1e797f270b8580546a27bc54dbf12e352417ae42"
+
+[[files]]
+file = "config/roadrunner/rules.properties"
+hash = "74eab23deb1deeb565c8adb2f831256c3de3d9f71fa8764643cc178d7de82450"
+
+[[files]]
 file = "config/sereneseasons/biome_info.json"
 hash = "0ea31da6d510330835cf16cee4bad9853bf3f65cc5a34fe17ac380fb3eddee41"
 
@@ -239,6 +267,18 @@ hash = "de6dbf5a0af745192d745c872421de52a87d43adeecc105fcc2f918bae858757"
 [[files]]
 file = "config/sereneseasons/seasons.toml"
 hash = "9a169ba5d1aacd30c08e12cf137bf5c45932d69fad0fc39dc879fdf78587a6d5"
+
+[[files]]
+file = "config/smoothboot.json"
+hash = "58061ea98bf97852c2d01e6e765dd99a83492d1fa06e39bc9d65e669b758accb"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "48b564c1f3aa70e7e0d470e536c82d843d3c1f90bf50bbec272ec974fc92b960"
 
 [[files]]
 file = "config/solpotato-client.toml"
@@ -282,7 +322,7 @@ hash = "e2f4c0f2e5a3b9a8c1c6078fab7afd4302afbaa90217431e659d01a559cd9e23"
 
 [[files]]
 file = "config/voicechat-client.toml"
-hash = "80d49b37c5669b89a4652d7541082337494dff8114dccd625e5cf770438044f3"
+hash = "642c5a3c87dcddfe7d8be54309d0996b07ad228f4829890b9960d767bd1bf621"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
@@ -319,10 +359,6 @@ hash = "09f908e8249a165a9e0a2fe529ecbe1a67dde4879575f572fa9600544084ebdc"
 [[files]]
 file = "defaultconfigs/solpotato-server.toml"
 hash = "bd14517128bf7c4103d874afc1dccf495ecbb56bb0f99ed4d4d672c49e1938a6"
-
-[[files]]
-file = "mods/OptiFine_1.16.5_HD_U_G8.jar"
-hash = "3c76bc90ed44bce567cee7c20eb2c4361926f23a86e5367d596f6e624d0b494f"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -405,6 +441,11 @@ hash = "7a63f28c85bfa5816be6c4e04e2bd57b6985f480776a178e9408df2021abc38e"
 metafile = true
 
 [[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "abd3a01e770b2d1eecbe9b1efed73d77240ef08d0557d34e56928cbaea345217"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "67eafaee9351e20fd9c52d9307335d06e121161242822ed9fa8a73dcc8c38035"
 metafile = true
@@ -420,6 +461,11 @@ hash = "fbcae0ce3bb0041efc3f06807cc763dd3e86e5fa6dceba048f1fa984293b44be"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "c4ed3f35492aacfb016f07498c0f373a9a242a38a1d042216d84ac7648754174"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "7784bbe87c156cdc99cce7ea79cc2d7d96580f716848e33ab215a31351625a61"
 metafile = true
@@ -427,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "ddf78c2dd4e3cfde08d9f27c7bf67456c7b549019f9a98ec504217441e89475f"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "42f2a971b383f6f4689a3c7a9c00df03001b5b93116632d1bec21f5efef496b4"
 metafile = true
 
 [[files]]
@@ -462,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "eb73176b93a6a54e5ea869d02236eb750ed36bc5a8cd052ab5032f7f8e25857f"
+metafile = true
+
+[[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "3695eda68e9b5f761320c8a81c3a3fe9420ebf7013a27ed698ebd58e834d5a05"
 metafile = true
 
 [[files]]
@@ -510,6 +566,11 @@ hash = "6d7e21afb6345e8f99bae1903c69141134fd10a773d5f431145a1f83cd1887ae"
 metafile = true
 
 [[files]]
+file = "mods/roadrunner.pw.toml"
+hash = "426f57df1157b97d7c53aab1d0ed858cde871fd51cabf9dcd6b981b930cf36e3"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons-fix.pw.toml"
 hash = "053053059f387be949ee99b744ef39c9df55726cd8e08a75aa9b8d5e291dba19"
 metafile = true
@@ -535,9 +596,23 @@ hash = "522c9813f7f4ba41841079d3c4ce4327d7e47e118ba63a7ec9f2f9884ef3be27"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot-forge.pw.toml"
+hash = "8fc85728b1093f7c7ee32cfcc91d185c6d856d374277be6420be562e6b4b99a3"
+metafile = true
+
+[[files]]
+file = "mods/sodium-reforged.pw.toml"
+hash = "884975845031b8caae1ebe734b462eaa817842463444d7232265e0b0f2d3e6fa"
+metafile = true
+
+[[files]]
 file = "mods/spice-of-life-potato-edition.pw.toml"
 hash = "dea53af9314bd4c931e4fde4c1db730c241b8c113b3a443a8c1d959a1b543b9f"
 metafile = true
+
+[[files]]
+file = "mods/starlight-forge-1.0.0-RC2-1.16.5.jar"
+hash = "02c7b7bba187d8a066ce0bbb1f60c1d17961cb4cc2a61a9d0138232a9e1eebf0"
 
 [[files]]
 file = "mods/structurize.pw.toml"
@@ -601,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "add9de6cd4cd21d1b769f86b4225bca4a40f79ae2cd4c662490edf324ce82ab2"
+hash = "6479ec7d91de9df3c670c4bcfa3ae6218fba4db78b2ac903eb657c9334d80ba4"
 
 [[files]]
 file = "optionsof.txt"

@@ -21,14 +21,6 @@ file = "config/YungsExtras/forge-1_16/wishing_wells.json"
 hash = "8f217960edb8a3af2a8801fecc51256d95e984e9cc24ebb097b732d4700a0b37"
 
 [[files]]
-file = "config/aiimprovements-common.toml"
-hash = "7c4610961ae8f366f39d6cf7d584524e747077efe601e090fddc37c7ba61f56c"
-
-[[files]]
-file = "config/ambientsounds-client.json"
-hash = "b2d57a0681ec00d4e59537ce771a2ba33480537c608a08c8deb6a419d59865d2"
-
-[[files]]
 file = "config/appleskin-client.toml"
 hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
 
@@ -157,10 +149,6 @@ file = "config/entityculling.json"
 hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
 
 [[files]]
-file = "config/fastbench.cfg"
-hash = "1961de123e3ace252c5cc07c22115772cf93f30b14da19dfdfdf90fa6b290c84"
-
-[[files]]
 file = "config/fastsuite.cfg"
 hash = "536257fb9de1fe0aff76ee5bd9f59f9105f1b187a6bde226d027440ace65c2c3"
 
@@ -193,22 +181,6 @@ file = "config/jei-client.toml"
 hash = "88334efa2eece5734ccfb4b1361210875ee9df8f50aee38956e14cd2183987f6"
 
 [[files]]
-file = "config/jei/bookmarks.ini"
-hash = "3dc41f63e212b6dbe309f7c37373ddcf4485c11b75fd8f969dc016c613f6d2a5"
-
-[[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "0862d9ee73cbdae279b8beafd8eaca4ee8e8bc5e2be122b9568d96851829b6ce"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "8a02baec846097c89832b5976a6eb4254fdd3067ec52017c50322e7a9bf80325"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "3c76d28e2114e6e8b72cfe5fab4290f071713e08861f1970c16805d086923554"
-
-[[files]]
 file = "config/jeresources-common.toml"
 hash = "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989"
 
@@ -218,7 +190,7 @@ hash = "b101c668c6c658e2db126b7f6d3b9eb913537ff8903fbfce0128534299b2aea5"
 
 [[files]]
 file = "config/magnesium_extras.toml"
-hash = "97e9cdfad2cd4fb7f27c0d2bd6b3465566804ab67841821bbe1089c8f9342567"
+hash = "dc6da98968a0cf32629e5ad24056c625e0c7399a007df48a1947f0efe86c4b53"
 
 [[files]]
 file = "config/mantle-client.toml"
@@ -285,14 +257,6 @@ file = "config/solpotato-client.toml"
 hash = "792f70862f39864c2347b0f155d38b5ff5e53def23768b56bc60d9077482e254"
 
 [[files]]
-file = "config/storagedrawers-client.toml"
-hash = "50857a5179079fa9c0e77147f667d3eb182edfa15f3e2605a9c18b796bec7111"
-
-[[files]]
-file = "config/storagedrawers-common.toml"
-hash = "a2d4fdfb4542cf1371a06a3a0f6be39e0e70de1f9f98eb3af9154459ae646ca0"
-
-[[files]]
 file = "config/structurize-client.toml"
 hash = "63b3ae2505b1cbb6dd453c97af83985a7126a851d8bf304a2287ca80d5d6670a"
 
@@ -323,22 +287,6 @@ hash = "e2f4c0f2e5a3b9a8c1c6078fab7afd4302afbaa90217431e659d01a559cd9e23"
 [[files]]
 file = "config/voicechat-client.toml"
 hash = "642c5a3c87dcddfe7d8be54309d0996b07ad228f4829890b9960d767bd1bf621"
-
-[[files]]
-file = "config/voicechat/username-cache.json"
-hash = "62cb81f3fe35ea4138cbff519ab22144d863b3d37b6c937ee9eace186038add7"
-
-[[files]]
-file = "config/yungsbridges-forge-1_16-1.toml.bak"
-hash = "3ae8ee66808af04f44dee38216f37b32fde73eb3f33001130c71fc7663e90fa7"
-
-[[files]]
-file = "config/yungsbridges-forge-1_16-2.toml.bak"
-hash = "3ae8ee66808af04f44dee38216f37b32fde73eb3f33001130c71fc7663e90fa7"
-
-[[files]]
-file = "config/yungsbridges-forge-1_16-3.toml.bak"
-hash = "c6d61758fab596edc9a33471fe1dd97d1537ab78579cf0ddda4feda81b7acb38"
 
 [[files]]
 file = "config/yungsbridges-forge-1_16.toml"

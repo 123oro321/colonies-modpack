@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/MouseTweaks.cfg"
-hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
-
-[[files]]
 file = "config/YungsExtras-forge-1_16.toml"
 hash = "d00cfe6ce3993f182f3ce4146323646bd3bfc5f8fa336ac79762b0f253aa4b58"
 
@@ -21,20 +17,8 @@ file = "config/YungsExtras/forge-1_16/wishing_wells.json"
 hash = "8f217960edb8a3af2a8801fecc51256d95e984e9cc24ebb097b732d4700a0b37"
 
 [[files]]
-file = "config/appleskin-client.toml"
-hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
-
-[[files]]
-file = "config/betteradvancements-client.toml"
-hash = "9376911f8431f28c6d7cef493ac8466491a79961793096385ad2e88aea4ffdf2"
-
-[[files]]
 file = "config/bettercaves-1_16.toml"
 hash = "3769e9030cfb3e659530ea777ffcec0accf85eb7714845ac0f5609abe305fc6e"
-
-[[files]]
-file = "config/bettercaves/README.txt"
-hash = "4f16327598ee6f761118b4396cff6a964799aaeea1d8af66b54c45946e03c53a"
 
 [[files]]
 file = "config/betterdungeons-forge-1_16.toml"
@@ -43,22 +27,6 @@ hash = "0a017b69d748c1bb608e98807af3dac586615e173d8efc20495833ebfd563e3e"
 [[files]]
 file = "config/bettermineshafts-forge-1_16.toml"
 hash = "6817437f4ddf1dffdfef144050f14909508352e39cabec3a8dd575e1416816eb"
-
-[[files]]
-file = "config/bettermineshafts/1_16/README.txt"
-hash = "b2222a54a5fcaeba7597d0d88f49d184e33cb4532b60e393b9a6d832a02e62c9"
-
-[[files]]
-file = "config/bettermineshafts/1_16/biomeTags.txt"
-hash = "d1e6c75dd7378bd478d4e119a0d1fa408084ce86f19a5f560a4f70f7b3577b7f"
-
-[[files]]
-file = "config/bettermineshafts/1_16/variants.json"
-hash = "20b4aaac8458f7d8ddd512e2cbab27c1c31f3f3cfbe9a08c9043e01f87e3bf46"
-
-[[files]]
-file = "config/bettermineshafts/README.txt"
-hash = "5e4216e07280b8881466f5b1010f8006ff9477054b366a1f4c0b24cba0b8d030"
 
 [[files]]
 file = "config/betterportals-1_16.toml"
@@ -129,44 +97,12 @@ file = "config/cookingforblockheads-common.toml"
 hash = "5244234e1ed8a40febc360b1170f0429de992dbe0d99a330c2debc9cc44c2ee1"
 
 [[files]]
-file = "config/dynamic_lights_reforged.toml"
-hash = "7e962e54d72b3974c3d31b6b78166f15e30b0751d94d42502898ca60b114be9f"
-
-[[files]]
-file = "config/dynamictrees-client.toml"
-hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
-
-[[files]]
 file = "config/dynamictrees-common.toml"
 hash = "1a576eb046ea1b987a1c54a94022d6061a78620e353fdb03eaf6b46aeda138c4"
 
 [[files]]
 file = "config/enchdesc-client.toml"
 hash = "891c189b7c1829750c7027ec7739b08312e19404ce604b367eb05c5c1f48d426"
-
-[[files]]
-file = "config/entityculling.json"
-hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
-
-[[files]]
-file = "config/fastsuite.cfg"
-hash = "536257fb9de1fe0aff76ee5bd9f59f9105f1b187a6bde226d027440ace65c2c3"
-
-[[files]]
-file = "config/ferritecore-mixin.toml"
-hash = "e004ac694c8936b7f02ab69498f7357e878af2fa6bbff5bd77cdf586052ce174"
-
-[[files]]
-file = "config/fml.toml"
-hash = "7b7d580fbddb34b59cfa2b08130e4514d7f84ddf33bd61e03c25299997ab5f4c"
-
-[[files]]
-file = "config/forge-client.toml"
-hash = "aba44e8db528160edac5925e92b8fed6148853cf60e98ce7c255b814e685e7d2"
-
-[[files]]
-file = "config/forge-common.toml"
-hash = "7da7a8a2043c5146b6c941631b040a945281943b9ff75a25e9743291959bd2bf"
 
 [[files]]
 file = "config/gravestone-client.toml"
@@ -193,10 +129,6 @@ file = "config/magnesium_extras.toml"
 hash = "a1d5a7077d4757e03d83d3c341205971f56415b6cd70d13748999696c8f23b98"
 
 [[files]]
-file = "config/mantle-client.toml"
-hash = "4eb31565ff6cb05edf5a4111eef5603f59b9f9a46d3682dd9f537dfe9a53e1cc"
-
-[[files]]
 file = "config/minecolonies-client.toml"
 hash = "7174982e902ca114c4073294dcd511c60878841a9a4ab8f3043c59ead8c08baf"
 
@@ -217,18 +149,6 @@ file = "config/quark-common.toml"
 hash = "4b83603c3590732dc897e4ef57e88833ed701500bf8055ca9dd4c4874b7417d1"
 
 [[files]]
-file = "config/roadrunner/client.toml"
-hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
-
-[[files]]
-file = "config/roadrunner/common.toml"
-hash = "c40b17471e0763f40d971a3d1e797f270b8580546a27bc54dbf12e352417ae42"
-
-[[files]]
-file = "config/roadrunner/rules.properties"
-hash = "74eab23deb1deeb565c8adb2f831256c3de3d9f71fa8764643cc178d7de82450"
-
-[[files]]
 file = "config/sereneseasons/biome_info.json"
 hash = "0ea31da6d510330835cf16cee4bad9853bf3f65cc5a34fe17ac380fb3eddee41"
 
@@ -241,24 +161,12 @@ file = "config/sereneseasons/seasons.toml"
 hash = "9a169ba5d1aacd30c08e12cf137bf5c45932d69fad0fc39dc879fdf78587a6d5"
 
 [[files]]
-file = "config/smoothboot.json"
-hash = "58061ea98bf97852c2d01e6e765dd99a83492d1fa06e39bc9d65e669b758accb"
-
-[[files]]
 file = "config/sodium-mixins.properties"
 hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/sodium-options.json"
 hash = "48b564c1f3aa70e7e0d470e536c82d843d3c1f90bf50bbec272ec974fc92b960"
-
-[[files]]
-file = "config/solpotato-client.toml"
-hash = "792f70862f39864c2347b0f155d38b5ff5e53def23768b56bc60d9077482e254"
-
-[[files]]
-file = "config/structurize-client.toml"
-hash = "63b3ae2505b1cbb6dd453c97af83985a7126a851d8bf304a2287ca80d5d6670a"
 
 [[files]]
 file = "config/tconstruct-client.toml"
@@ -274,10 +182,10 @@ hash = "4359c6a25c15d05212e3124eee50ae89ddbbe9c71c5e6abfa605770bc38c93a0"
 
 [[files]]
 file = "config/terraforged/general.conf"
-hash = "7012c42e9a51840cdb42cf88a557377c5370da46b4bf4d696b7ded701b51e03a"
+hash = "87e3ee094351305742720458fa7008a793dacff43a66193dcf25a8e71542ba1d"
 
 [[files]]
-file = "config/terraforged/presets/test.json"
+file = "config/terraforged/presets/Colony.json"
 hash = "dae13582e49fbed3928a5ccf4f812673d0286e4875d95fd8fdddd52cbdcee728"
 
 [[files]]
@@ -524,8 +432,8 @@ hash = "053053059f387be949ee99b744ef39c9df55726cd8e08a75aa9b8d5e291dba19"
 metafile = true
 
 [[files]]
-file = "mods/serene-seasons-pams-harvest-craft-2-compat.pw.toml"
-hash = "c00ad206169a88ab221696412a2b56642814f06141dee72efcc1647e7ff443de"
+file = "mods/serene-seasons-pam-s-harvestcraft-2-crops-compat.pw.toml"
+hash = "35e55f3fc145645c971c21b68dc0f9f966875e40de737e3285fb57c5d435d3ab"
 metafile = true
 
 [[files]]

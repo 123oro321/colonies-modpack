@@ -217,11 +217,6 @@ file = "defaultconfigs/solpotato-server.toml"
 hash = "bd14517128bf7c4103d874afc1dccf495ecbb56bb0f99ed4d4d672c49e1938a6"
 
 [[files]]
-file = "mods/ai-improvements.pw.toml"
-hash = "78a2974be4ca1553dc4d339f6ebe6eee69e3113389b2fea2667a3678cf207c29"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "cf7c471e0c117cf5f0591d70d71a0371e8e7ce64ba670d3b02b49a48d63e22c7"
 metafile = true
@@ -249,16 +244,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "efeb48bf46104c4a7b7be583ecf810e2484abe15b613be18265c1e4abf008b89"
-metafile = true
-
-[[files]]
-file = "mods/borderless.pw.toml"
-hash = "44562116120af8de43bb8bb832976be052a93ff78a321b357052d6fd1d51e266"
-metafile = true
-
-[[files]]
-file = "mods/clumps.pw.toml"
-hash = "1a01ec8a8ca02d7eb862ee1d31752f265b2dd22e03c1e17c9950f5c7cccdd90b"
 metafile = true
 
 [[files]]
@@ -307,11 +292,6 @@ hash = "67eafaee9351e20fd9c52d9307335d06e121161242822ed9fa8a73dcc8c38035"
 metafile = true
 
 [[files]]
-file = "mods/dynamictreesplus.pw.toml"
-hash = "b966a212aa3ebd9fb754d9701e2605823f64e39633da861df89b2f6f6e924b59"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "fbcae0ce3bb0041efc3f06807cc763dd3e86e5fa6dceba048f1fa984293b44be"
 metafile = true
@@ -327,18 +307,8 @@ hash = "7784bbe87c156cdc99cce7ea79cc2d7d96580f716848e33ab215a31351625a61"
 metafile = true
 
 [[files]]
-file = "mods/fastfurnace.pw.toml"
-hash = "ddf78c2dd4e3cfde08d9f27c7bf67456c7b549019f9a98ec504217441e89475f"
-metafile = true
-
-[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "42f2a971b383f6f4689a3c7a9c00df03001b5b93116632d1bec21f5efef496b4"
-metafile = true
-
-[[files]]
-file = "mods/fastworkbench.pw.toml"
-hash = "86117b09d696b811c11cc1ceb7ad5a24276974563cbdba51341181341718fc6d"
 metafile = true
 
 [[files]]

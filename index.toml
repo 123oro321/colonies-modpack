@@ -428,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-reforged.pw.toml"
-hash = "884975845031b8caae1ebe734b462eaa817842463444d7232265e0b0f2d3e6fa"
+hash = "217dce4ed546bc2e3dac21b907fa7971040e2e47b6cd7fcf0e5b3f88790783bb"
 metafile = true
 
 [[files]]

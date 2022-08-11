@@ -1,12 +1,12 @@
 name = "Colonies"
 author = "Or_OS"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1e024dff21352ebedc1a2e281c35a30566a7af49dc15213855cb763982ed4854"
+hash = "e1b39198458a806a1fc8e306c62a311d3f3117acf03f5a86fde50516ffe9c1e9"
 
 [versions]
 forge = "36.2.34"

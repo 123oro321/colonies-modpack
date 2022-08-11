@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons-pam-s-harvestcraft-2-crops-compat.pw.toml"
-hash = "35e55f3fc145645c971c21b68dc0f9f966875e40de737e3285fb57c5d435d3ab"
+hash = "2678826d83752dfd9914ffd02203b0816ad934e9a380f9b179e117f5e1140984"
 metafile = true
 
 [[files]]
@@ -418,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "522c9813f7f4ba41841079d3c4ce4327d7e47e118ba63a7ec9f2f9884ef3be27"
+hash = "e5b0b46080e01637df1fc257ed1052c2ea74b83c7a3dc36c0a97f7e4de6c9644"
 metafile = true
 
 [[files]]

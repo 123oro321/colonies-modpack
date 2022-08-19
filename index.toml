@@ -397,7 +397,7 @@ hash = "d527e6ad2862a692d9dfdf5bb023ac773d068d65e0dfe1ce15036c2ad7832f96"
 metafile = true
 
 [[files]]
-file = "mods/serene-seasons-pam-s-harvestcraft-2-crops-compat.pw.toml"
+file = "mods/serene-seasons-harvestcraft2-compat.pw.toml"
 hash = "2678826d83752dfd9914ffd02203b0816ad934e9a380f9b179e117f5e1140984"
 metafile = true
 

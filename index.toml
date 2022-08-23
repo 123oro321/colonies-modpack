@@ -413,7 +413,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d1056865a15a0e040449eee30e4f782f3e836e9982978495c9f01e742533e95f"
+hash = "e4b53390c46138e2c9180b9043daf8f6caf7769354411e124e7df0fb1e3bfda1"
 metafile = true
 
 [[files]]
@@ -434,6 +434,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge-1.0.0-RC2-1.16.5.jar"
 hash = "02c7b7bba187d8a066ce0bbb1f60c1d17961cb4cc2a61a9d0138232a9e1eebf0"
+
+[[files]]
+file = "mods/starlight-x-create.pw.toml"
+hash = "6eca2d9c04d67392eb6cabcbddd156c7d49d29cdf9410c2dce62c14ee3306060"
+metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"

@@ -432,10 +432,6 @@ hash = "dea53af9314bd4c931e4fde4c1db730c241b8c113b3a443a8c1d959a1b543b9f"
 metafile = true
 
 [[files]]
-file = "mods/starlight-forge-1.0.0-RC2-1.16.5.jar"
-hash = "02c7b7bba187d8a066ce0bbb1f60c1d17961cb4cc2a61a9d0138232a9e1eebf0"
-
-[[files]]
 file = "mods/starlight-x-create.pw.toml"
 hash = "6eca2d9c04d67392eb6cabcbddd156c7d49d29cdf9410c2dce62c14ee3306060"
 metafile = true

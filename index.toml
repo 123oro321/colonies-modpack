@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "3695eda68e9b5f761320c8a81c3a3fe9420ebf7013a27ed698ebd58e834d5a05"
+hash = "88e65ab7f0278c51f8ad7004c7217bdcf0b39ba6246d32213469904383d3e024"
 metafile = true
 
 [[files]]
@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "fb87f119ac999eb881a8fac1518ee806583df2a02a3b28c9ae23479746881c0c"
+hash = "8ae5db846ae42b6d68f1fefd682c78d642661e7ff245c03e502c7b03fbb12ff4"
 metafile = true
 
 [[files]]
@@ -413,7 +413,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e4b53390c46138e2c9180b9043daf8f6caf7769354411e124e7df0fb1e3bfda1"
+hash = "e790f3be6e141e219db2fb1089290b4b70a2d8b564111f95c28ac3f9dfeeb88c"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "55272d8b0c7469d985f48f3b6fd068da9ecdbaf2f4bae9b1207e401f33c673f2"
+hash = "b1ce6aec6b311105a14a9ae9017bd6f741c142803cecd5a1a4d5a86aea4a39cd"
 metafile = true
 
 [[files]]

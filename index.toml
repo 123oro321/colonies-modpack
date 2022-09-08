@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons-fix.pw.toml"
-hash = "d527e6ad2862a692d9dfdf5bb023ac773d068d65e0dfe1ce15036c2ad7832f96"
+hash = "f1623635dab5554a64dafb228ff5e453c4c55c1b457df56e1cc526ea082839d8"
 metafile = true
 
 [[files]]
@@ -413,7 +413,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e790f3be6e141e219db2fb1089290b4b70a2d8b564111f95c28ac3f9dfeeb88c"
+hash = "0063f7a56b0849435d9e6f287c18c9318d4b16528e224ba0553a1ea8b01c703c"
 metafile = true
 
 [[files]]

@@ -142,7 +142,7 @@ hash = "c63c090586412e77bcb714fb5faf250a2e26c28701d42c41c96b00c1b658e108"
 
 [[files]]
 file = "config/pamhc2trees.toml"
-hash = "73758ff41706817bea7968495c210b6b98be66335c64a462a4c2e51949ac834a"
+hash = "43ac031496d8a4c92ec6b6487fb121b8374792eb905794c1654ce0f2219b8ca1"
 
 [[files]]
 file = "config/quark-common.toml"

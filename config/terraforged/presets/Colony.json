@@ -1,6 +1,6 @@
 {
   "miscellaneous": {
-    "smoothLayerDecorator": true,
+    "smoothLayerDecorator": false,
     "strataRegionSize": 721,
     "strataDecorator": false,
     "oreCompatibleStoneOnly": true,
@@ -9,7 +9,7 @@
     "naturalSnowDecorator": true,
     "customBiomeFeatures": true,
     "vanillaLakes": false,
-    "vanillaSprings": true,
+    "vanillaSprings": false,
     "vanillaLavaLakes": true,
     "vanillaLavaSprings": false,
     "mountainBiomeUsage": 0.902,

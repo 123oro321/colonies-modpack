@@ -186,7 +186,7 @@ hash = "87e3ee094351305742720458fa7008a793dacff43a66193dcf25a8e71542ba1d"
 
 [[files]]
 file = "config/terraforged/presets/Colony.json"
-hash = "dae13582e49fbed3928a5ccf4f812673d0286e4875d95fd8fdddd52cbdcee728"
+hash = "0d4060f94855f76f747d04f704edf0bbe1c40ad102cbbd53c590b64fcc4c7698"
 
 [[files]]
 file = "config/totaldarkness-client.toml"
@@ -294,11 +294,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "fbcae0ce3bb0041efc3f06807cc763dd3e86e5fa6dceba048f1fa984293b44be"
-metafile = true
-
-[[files]]
-file = "mods/fast-leaf-decay.pw.toml"
-hash = "7784bbe87c156cdc99cce7ea79cc2d7d96580f716848e33ab215a31351625a61"
 metafile = true
 
 [[files]]

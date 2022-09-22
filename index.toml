@@ -138,11 +138,11 @@ hash = "7777e4194af00991975275022b3f5808ec25aa574fdfa3193c61f689a4afc6e0"
 
 [[files]]
 file = "config/pamhc2crops.toml"
-hash = "c63c090586412e77bcb714fb5faf250a2e26c28701d42c41c96b00c1b658e108"
+hash = "3bbfa90ef5f01720cab4cb9e5adddd39019bf3fa803a7dc098ff4d0c04915845"
 
 [[files]]
 file = "config/pamhc2trees.toml"
-hash = "fa060e8e8948e19a65c570fe219809c525b165bc8fdb3ee4a4928dce41cfffc2"
+hash = "76368061a7d950a99cc0a769271bbc42359659c596c00344fedc5c8428f5e80d"
 
 [[files]]
 file = "config/quark-common.toml"

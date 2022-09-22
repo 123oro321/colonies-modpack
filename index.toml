@@ -217,6 +217,14 @@ file = "defaultconfigs/solpotato-server.toml"
 hash = "bd14517128bf7c4103d874afc1dccf495ecbb56bb0f99ed4d4d672c49e1938a6"
 
 [[files]]
+file = "journeymap/config/5.8/journeymap.core.config"
+hash = "1831861de5e29baa31d7860a7a9915f775c09aa642fdb61d38a400bb41665bee"
+
+[[files]]
+file = "journeymap/server/5.8/journeymap.server.global.config"
+hash = "d99fa9e20a0e2c16ec7f8e6620585d66805281a1da8e7f1b40cc0102c9fb7e78"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "cf7c471e0c117cf5f0591d70d71a0371e8e7ce64ba670d3b02b49a48d63e22c7"
 metafile = true
@@ -493,4 +501,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "72878d7dcc428c1d1c379256e5a20ca94de005828db2e8c903c8116b0692eb7a"
+hash = "a181d835b6442c38f7d30fdb2edc570524418a40f574a6e0920edc935b9a4826"

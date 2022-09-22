@@ -23,7 +23,7 @@
 	growthMultiplier = 0.5
 	#Factor that multiplies the wood returned from harvesting a tree.  You cheat.
 	#Range: 0.0 ~ 128.0
-	harvestMultiplier = 2.0
+	harvestMultiplier = 1.5
 	#Maximum harvesting hardness that can be calculated. Regardless of tree thickness.
 	#Range: 1.0 ~ 200.0
 	maxTreeHardness = 20.0

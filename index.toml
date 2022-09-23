@@ -5,38 +5,6 @@ file = "config/YungsExtras-forge-1_16.toml"
 hash = "d00cfe6ce3993f182f3ce4146323646bd3bfc5f8fa336ac79762b0f253aa4b58"
 
 [[files]]
-file = "config/YungsExtras/README.txt"
-hash = "930ad054548d66deee0836d5160cc3ee14e16150aa83efc7a046d54c9a32af16"
-
-[[files]]
-file = "config/YungsExtras/forge-1_16/README.txt"
-hash = "d9fd8d2fa8dca42d4ffc3573159e3d0fa2618ceb6474d38831a55786c43e1c5d"
-
-[[files]]
-file = "config/YungsExtras/forge-1_16/wishing_wells.json"
-hash = "8f217960edb8a3af2a8801fecc51256d95e984e9cc24ebb097b732d4700a0b37"
-
-[[files]]
-file = "config/bettercaves-1_16.toml"
-hash = "3769e9030cfb3e659530ea777ffcec0accf85eb7714845ac0f5609abe305fc6e"
-
-[[files]]
-file = "config/betterdungeons-forge-1_16.toml"
-hash = "0a017b69d748c1bb608e98807af3dac586615e173d8efc20495833ebfd563e3e"
-
-[[files]]
-file = "config/bettermineshafts-forge-1_16.toml"
-hash = "6817437f4ddf1dffdfef144050f14909508352e39cabec3a8dd575e1416816eb"
-
-[[files]]
-file = "config/betterportals-1_16.toml"
-hash = "164a1b4be6efea23ec44071942e2edcd97d0fba7d70b3af0d8988ea12b1eefba"
-
-[[files]]
-file = "config/betterportals/1_16/README.txt"
-hash = "6edb905c57f716baf9cea44eea73c80d88f2e93e5cdfde69f365657216fb53e8"
-
-[[files]]
 file = "config/betterportals/1_16/monoliths.json"
 hash = "d2dd6396e2efb7c5fb40e17d598a0a9d64493440ef5373731852e914e2f14da0"
 
@@ -45,68 +13,12 @@ file = "config/betterportals/1_16/rifts.json"
 hash = "585be7b32317b788130c3addc2c1f3d74956f903ad9c90f5df47b2430b0a2541"
 
 [[files]]
-file = "config/betterstrongholds-forge-1_16.toml"
-hash = "f871c3316794c853a3768725cdca3222a0e27729bd3b84f7c3b20569876cdc07"
-
-[[files]]
-file = "config/betterstrongholds/README.txt"
-hash = "13c5f6bd52bf778533a100453d8b295802f923109e0a2951446a00674113700b"
-
-[[files]]
-file = "config/betterstrongholds/forge-1_16/README.txt"
-hash = "5aad271e60a03218eb5207dd78df8d1d36c676f212bf823701e33646010d2f19"
-
-[[files]]
-file = "config/betterstrongholds/forge-1_16/armorstands.json"
-hash = "d7130cbd35a26bc386686d3de8f6a17f821ccbb25fa391c9085ba53b09039d20"
-
-[[files]]
-file = "config/betterstrongholds/forge-1_16/itemframes.json"
-hash = "48341feebc8d57468c0dc7747a091b93c66665aa7eb9114bb67f00e8b7eeae92"
-
-[[files]]
-file = "config/betterstrongholds/forge-1_16/ores.json"
-hash = "2836901d71574de707b5912b1412b12c23e086439d4a81526f3e9c54367c5772"
-
-[[files]]
-file = "config/betterstrongholds/forge-1_16/rareblocks.json"
-hash = "89a9e8ca3be505dbf6d91ee5d287f79ba5c93699a074da4bcf3b7ad9303c5f9d"
-
-[[files]]
-file = "config/biomesoplenty/biomes.json"
-hash = "f672f706909971c3f4cf9523ab93a161d6e5f1da2e70c5678e241813093d4b63"
-
-[[files]]
 file = "config/biomesoplenty/client.toml"
 hash = "38fd5adb6d3817a74f41e21fd859b266f0d9a2ada8a3d7058b49b1cd5af82598"
 
 [[files]]
-file = "config/biomesoplenty/generation.toml"
-hash = "4e29e7aa1b99b38985934cbcb473b23cc9b0e3ab1b048816911971368f2b6d70"
-
-[[files]]
-file = "config/borderlesswindow-client.toml"
-hash = "99427073d7c820407bc2e20b2114e9b230333396db1ef0923aa7ff38b632b9d5"
-
-[[files]]
-file = "config/cookingforblockheads-client.toml"
-hash = "0391d591ebf3f63f14380aa20749ae7fc540f297d7f7b742aefe8e429274026e"
-
-[[files]]
-file = "config/cookingforblockheads-common.toml"
-hash = "5244234e1ed8a40febc360b1170f0429de992dbe0d99a330c2debc9cc44c2ee1"
-
-[[files]]
 file = "config/dynamictrees-common.toml"
 hash = "1a576eb046ea1b987a1c54a94022d6061a78620e353fdb03eaf6b46aeda138c4"
-
-[[files]]
-file = "config/enchdesc-client.toml"
-hash = "891c189b7c1829750c7027ec7739b08312e19404ce604b367eb05c5c1f48d426"
-
-[[files]]
-file = "config/gravestone-client.toml"
-hash = "0f7657373c8cccc3e9f11a79533c0c85c84e68762b65e5c6f9728ca9226873d3"
 
 [[files]]
 file = "config/hourglass-client.toml"
@@ -126,7 +38,7 @@ hash = "b101c668c6c658e2db126b7f6d3b9eb913537ff8903fbfce0128534299b2aea5"
 
 [[files]]
 file = "config/magnesium_extras.toml"
-hash = "a1d5a7077d4757e03d83d3c341205971f56415b6cd70d13748999696c8f23b98"
+hash = "e81a50826d5213f17a888863da6e5ec543bb8155fd931147a3bafa2e5791e9ee"
 
 [[files]]
 file = "config/minecolonies-client.toml"
@@ -149,36 +61,12 @@ file = "config/quark-common.toml"
 hash = "4b83603c3590732dc897e4ef57e88833ed701500bf8055ca9dd4c4874b7417d1"
 
 [[files]]
-file = "config/sereneseasons/biome_info.json"
-hash = "0ea31da6d510330835cf16cee4bad9853bf3f65cc5a34fe17ac380fb3eddee41"
-
-[[files]]
-file = "config/sereneseasons/fertility.toml"
-hash = "de6dbf5a0af745192d745c872421de52a87d43adeecc105fcc2f918bae858757"
-
-[[files]]
 file = "config/sereneseasons/seasons.toml"
 hash = "9a169ba5d1aacd30c08e12cf137bf5c45932d69fad0fc39dc879fdf78587a6d5"
 
 [[files]]
-file = "config/sodium-mixins.properties"
-hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
-
-[[files]]
 file = "config/sodium-options.json"
 hash = "48b564c1f3aa70e7e0d470e536c82d843d3c1f90bf50bbec272ec974fc92b960"
-
-[[files]]
-file = "config/tconstruct-client.toml"
-hash = "ad854761fcda73e385fdcbbf5c9019ed0ee8a1699e15bb5cdb9a5684f3204e58"
-
-[[files]]
-file = "config/tconstruct-common.toml"
-hash = "2ba17097554be5fed989168eb8ae03fcfda150d79a59123d39e6b630f51aba2a"
-
-[[files]]
-file = "config/terraforged/biome_weights.conf"
-hash = "4359c6a25c15d05212e3124eee50ae89ddbbe9c71c5e6abfa605770bc38c93a0"
 
 [[files]]
 file = "config/terraforged/general.conf"
@@ -191,10 +79,6 @@ hash = "0d4060f94855f76f747d04f704edf0bbe1c40ad102cbbd53c590b64fcc4c7698"
 [[files]]
 file = "config/totaldarkness-client.toml"
 hash = "e2f4c0f2e5a3b9a8c1c6078fab7afd4302afbaa90217431e659d01a559cd9e23"
-
-[[files]]
-file = "config/voicechat-client.toml"
-hash = "642c5a3c87dcddfe7d8be54309d0996b07ad228f4829890b9960d767bd1bf621"
 
 [[files]]
 file = "config/yungsbridges-forge-1_16.toml"

@@ -305,6 +305,11 @@ hash = "fbcae0ce3bb0041efc3f06807cc763dd3e86e5fa6dceba048f1fa984293b44be"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "c4ed3f35492aacfb016f07498c0f373a9a242a38a1d042216d84ac7648754174"
+metafile = true
+
+[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "42f2a971b383f6f4689a3c7a9c00df03001b5b93116632d1bec21f5efef496b4"
 metafile = true

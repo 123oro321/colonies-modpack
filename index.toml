@@ -50,11 +50,11 @@ hash = "7777e4194af00991975275022b3f5808ec25aa574fdfa3193c61f689a4afc6e0"
 
 [[files]]
 file = "config/pamhc2crops.toml"
-hash = "3bbfa90ef5f01720cab4cb9e5adddd39019bf3fa803a7dc098ff4d0c04915845"
+hash = "0587be71e7a69bdf843c152335f7ff74e991740bedc1ae4e88fa7343d1d0d74a"
 
 [[files]]
 file = "config/pamhc2trees.toml"
-hash = "76368061a7d950a99cc0a769271bbc42359659c596c00344fedc5c8428f5e80d"
+hash = "fa060e8e8948e19a65c570fe219809c525b165bc8fdb3ee4a4928dce41cfffc2"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -95,6 +95,14 @@ hash = "80788beca32eae9b44ae35f6f098d08c43646b599aae469ac6496f420e919813"
 [[files]]
 file = "defaultconfigs/minecolonies-server.toml"
 hash = "09f908e8249a165a9e0a2fe529ecbe1a67dde4879575f572fa9600544084ebdc"
+
+[[files]]
+file = "defaultconfigs/pamhc2crops.toml"
+hash = "47f625666afa795f27965ad3291b622b48e2d8303a8b3385b936334fe8448693"
+
+[[files]]
+file = "defaultconfigs/pamhc2trees.toml"
+hash = "91fda437f12bf2f9ac9e8bc0b15e93d73db89dc9ff8b1b8cdb5ab4fed1b81494"
 
 [[files]]
 file = "defaultconfigs/solpotato-server.toml"

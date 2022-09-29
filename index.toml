@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictrees.pw.toml"
-hash = "6ebd850121a520d58a0a75171eec9190f79d5c4863ea787c2df6fd65a04f25ee"
+hash = "bc4b5083095f89ba0c1f92c4125afee68f48aa0a77b5aaa0ad678650aa9ef6b6"
 metafile = true
 
 [[files]]

@@ -50,7 +50,7 @@ hash = "7777e4194af00991975275022b3f5808ec25aa574fdfa3193c61f689a4afc6e0"
 
 [[files]]
 file = "config/pamhc2crops.toml"
-hash = "0587be71e7a69bdf843c152335f7ff74e991740bedc1ae4e88fa7343d1d0d74a"
+hash = "5d25ecb644ca09a8f81d28be38a57a32334a802cf99527ac29a5e2395b2ce543"
 
 [[files]]
 file = "config/pamhc2trees.toml"
@@ -98,7 +98,7 @@ hash = "09f908e8249a165a9e0a2fe529ecbe1a67dde4879575f572fa9600544084ebdc"
 
 [[files]]
 file = "defaultconfigs/pamhc2crops.toml"
-hash = "47f625666afa795f27965ad3291b622b48e2d8303a8b3385b936334fe8448693"
+hash = "b20042ba00308cdae26c5110866f83bde8ce117dc1688886f4887ed30c96e8fb"
 
 [[files]]
 file = "defaultconfigs/pamhc2trees.toml"

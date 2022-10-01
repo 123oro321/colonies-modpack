@@ -1626,7 +1626,7 @@
 			#Allowed values: [0,255]
 			"Max Height" = 60
 			#Allowed values: [0,)
-			"Cluster Count" = 3
+			"Cluster Count" = 1
 			#Allowed values: [0,255]
 			"Min Height" = 20
 			#Allowed values: [0,)

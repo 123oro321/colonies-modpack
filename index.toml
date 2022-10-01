@@ -58,7 +58,7 @@ hash = "fa060e8e8948e19a65c570fe219809c525b165bc8fdb3ee4a4928dce41cfffc2"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "4b83603c3590732dc897e4ef57e88833ed701500bf8055ca9dd4c4874b7417d1"
+hash = "95e92aafd221839cdce8ff4051b9edd3e9598139d2c7dd8feff0e9194ef9d37d"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
@@ -74,7 +74,7 @@ hash = "87e3ee094351305742720458fa7008a793dacff43a66193dcf25a8e71542ba1d"
 
 [[files]]
 file = "config/terraforged/presets/Colony.json"
-hash = "0d4060f94855f76f747d04f704edf0bbe1c40ad102cbbd53c590b64fcc4c7698"
+hash = "49a8e49b399a5fcfda8a36c6fd0bda56c5a1dfda387d2aad6262b45b0bec49d4"
 
 [[files]]
 file = "config/totaldarkness-client.toml"

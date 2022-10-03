@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/YungsExtras-forge-1_16.toml"
-hash = "d00cfe6ce3993f182f3ce4146323646bd3bfc5f8fa336ac79762b0f253aa4b58"
+hash = "b665935e247ef5a0838173bfac19cf52fe08b85957545256ba9955b4c7a15730"
 
 [[files]]
 file = "config/betterportals/1_16/monoliths.json"
@@ -58,7 +58,7 @@ hash = "fa060e8e8948e19a65c570fe219809c525b165bc8fdb3ee4a4928dce41cfffc2"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "95e92aafd221839cdce8ff4051b9edd3e9598139d2c7dd8feff0e9194ef9d37d"
+hash = "02e687c51453d6dcce07085c7be7da771d0dcbb1a7ccdeb49e294ddcfbd0dc6d"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
@@ -309,11 +309,6 @@ metafile = true
 [[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
 hash = "bdbf0e89c6bdfcac33f44921835b4a7e7b909214d99badb1d8e15200f836bb90"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "3756f6af300737be523e77d5ea3de2c63915a978978cbe6b4f225c1b04ccdda7"
 metafile = true
 
 [[files]]

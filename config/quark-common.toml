@@ -882,7 +882,7 @@
 		"Drop Leaf Particles" = true
 
 		[world.blossom_trees.orange]
-			Rarity = 100
+			Rarity = 30
 
 			[world.blossom_trees.orange.biome_config]
 
@@ -926,7 +926,7 @@
 				"Is Blacklist" = false
 
 		[world.blossom_trees.pink]
-			Rarity = 100
+			Rarity = 30
 
 			[world.blossom_trees.pink.biome_config]
 
@@ -948,7 +948,7 @@
 				"Is Blacklist" = false
 
 		[world.blossom_trees.blue]
-			Rarity = 200
+			Rarity = 30
 
 			[world.blossom_trees.blue.biome_config]
 
@@ -970,7 +970,7 @@
 				"Is Blacklist" = false
 
 		[world.blossom_trees.yellow]
-			Rarity = 200
+			Rarity = 30
 
 			[world.blossom_trees.yellow.biome_config]
 
@@ -992,7 +992,7 @@
 				"Is Blacklist" = false
 
 		[world.blossom_trees.lavender]
-			Rarity = 100
+			Rarity = 30
 
 			[world.blossom_trees.lavender.biome_config]
 

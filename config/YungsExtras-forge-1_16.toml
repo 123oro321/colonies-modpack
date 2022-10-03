@@ -29,16 +29,16 @@
 		["YUNG's Better Strongholds"."Desert Decorations"."Desert Obelisks"]
 			# The spawn rate (chance per chunk) of a ruined obelisk spawning.
 			# Default: 700
-			"Ruined Obelisk Spawn Rate" = 350
+			"Ruined Obelisk Spawn Rate" = 70
 			# The spawn rate (chance per chunk) of a blackstone obelisk spawning.
 			# Default: 3000
-			"Blackstone Obelisk Spawn Rate" = 1500
+			"Blackstone Obelisk Spawn Rate" = 300
 			# The spawn rate (chance per chunk) of a normal obelisk spawning.
 			# Default: 700
-			"Normal Obelisk Spawn Rate" = 350
+			"Normal Obelisk Spawn Rate" = 70
 			# The spawn rate (chance per chunk) of a chiseled obelisk spawning.
 			# Default: 700
-			"Chiseled Obelisk Spawn Rate" = 350
+			"Chiseled Obelisk Spawn Rate" = 70
 
 		###########################################################################################################
 		## Settings for miscellaneous desert structures.
@@ -46,13 +46,13 @@
 		["YUNG's Better Strongholds"."Desert Decorations"."Desert Miscellaneous"]
 			# The spawn rate (chance per chunk) of an abandoned vacation spot spawning.
 			# Default: 1000
-			"Abandoned Vacation Spot Spawn Rate" = 500
+			"Abandoned Vacation Spot Spawn Rate" = 100
 			# The spawn rate (chance per chunk) of a small ruins spawning.
 			# Default: 1000
-			"Ruins Spawn Rate (Small)" = 500
+			"Ruins Spawn Rate (Small)" = 100
 			# The spawn rate (chance per chunk) of a flame outpost spawning.
 			# Default: 700
-			"Flame Outpost Spawn Rate" = 350
+			"Flame Outpost Spawn Rate" = 70
 
 		###########################################################################################################
 		## Settings for the different Desert Well variations.
@@ -60,29 +60,29 @@
 		["YUNG's Better Strongholds"."Desert Decorations"."Desert Wells"]
 			# The spawn rate (chance per chunk) of a medium-sized normal well spawning.
 			# Default: 1200
-			"Normal Well Spawn Rate (Medium)" = 600
+			"Normal Well Spawn Rate (Medium)" = 120
 			# The spawn rate (chance per chunk) of a medium-sized Wishing Well spawning.
 			# Default: 1200
-			"Wishing Well Spawn Rate (Medium)" = 600
+			"Wishing Well Spawn Rate (Medium)" = 120
 			# The spawn rate (chance per chunk) of a medium-sized dry well spawning.
 			# Default: 1200
-			"Dry Well Spawn Rate (Medium)" = 600
+			"Dry Well Spawn Rate (Medium)" = 120
 			# The spawn rate (chance per chunk) of a large dry well spawning.
 			# Default: 1200
-			"Dry Well Spawn Rate (Large)" = 600
+			"Dry Well Spawn Rate (Large)" = 120
 			# The spawn rate (chance per chunk) of a small Wishing Well spawning.
 			# Default: 1200
-			"Wishing Well Spawn Rate (Small)" = 600
+			"Wishing Well Spawn Rate (Small)" = 120
 			# The spawn rate (chance per chunk) of a small normal well spawning.
 			# Default: 1200
-			"Normal Well Spawn Rate (Small)" = 600
+			"Normal Well Spawn Rate (Small)" = 120
 			# The spawn rate (chance per chunk) of a large normal well spawning.
 			# Default: 1200
-			"Normal Well Spawn Rate (Large)" = 600
+			"Normal Well Spawn Rate (Large)" = 120
 			# The spawn rate (chance per chunk) of a small dry well spawning.
 			# Default: 1200
-			"Dry Well Spawn Rate (Small)" = 600
+			"Dry Well Spawn Rate (Small)" = 120
 			# The spawn rate (chance per chunk) of a large Wishing Well spawning.
 			# Default: 1200
-			"Wishing Well Spawn Rate (Large)" = 600
+			"Wishing Well Spawn Rate (Large)" = 120
 

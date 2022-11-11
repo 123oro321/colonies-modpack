@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictrees.pw.toml"
-hash = "bc4b5083095f89ba0c1f92c4125afee68f48aa0a77b5aaa0ad678650aa9ef6b6"
+hash = "7a3fa2fcf98db607df8c77221aa150b75dff67e329535e5fc87fd928ca3c78a8"
 metafile = true
 
 [[files]]
@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore.pw.toml"
-hash = "62ce1c71f37c4b66e0a4b160c9815762017b4862f96523f04029dd8d72bb4f13"
+hash = "37b9b71a2ae4d1cae29c27830bbe809c36601f066f48fb71d822f98ad82d0c1e"
 metafile = true
 
 [[files]]

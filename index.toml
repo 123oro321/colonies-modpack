@@ -147,6 +147,11 @@ hash = "efeb48bf46104c4a7b7be583ecf810e2484abe15b613be18265c1e4abf008b89"
 metafile = true
 
 [[files]]
+file = "mods/chunk-saving-fix.pw.toml"
+hash = "ba60b48bbf5f85ca4dc513e8312188b1b7e788dc1467d991b7c9fc71f77fd8ad"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "9adeb349216f20780d7bf2b6b516e955b56381fd2b09b8dcc8c044b2037ceba8"
 metafile = true

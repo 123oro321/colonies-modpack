@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons-fix.pw.toml"
-hash = "c86a36f25318da77dd40723927758a905cefa976f20d3e225631808093cd839c"
+hash = "ddb7b693e4fea408f4369d8dae2c41b9ffe6dce60f8bbce155ab2e9c16fb7697"
 metafile = true
 
 [[files]]
@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
-hash = "305d323e6b6b2f30e227595df0efbb64fcd59a3b5a36dadf6d9ce27942eb70d5"
+hash = "4dae0a34994dab564d160eb060de25a3435389ed9e9966d5270732fb37d37a33"
 metafile = true
 
 [[files]]

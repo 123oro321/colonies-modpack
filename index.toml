@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "efeb48bf46104c4a7b7be583ecf810e2484abe15b613be18265c1e4abf008b89"
+hash = "47b90fdea54bb7b8b04680eddcddd2aec88603b0db1832356b54b1484e6df1f3"
 metafile = true
 
 [[files]]
@@ -324,6 +324,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-reforged.pw.toml"
 hash = "217dce4ed546bc2e3dac21b907fa7971040e2e47b6cd7fcf0e5b3f88790783bb"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "5af63db84dfbf116c316a13b21eaf3f0f097c8bdf00cc7b81bcf0406932a2415"
 metafile = true
 
 [[files]]

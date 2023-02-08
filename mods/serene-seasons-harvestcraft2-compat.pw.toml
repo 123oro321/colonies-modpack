@@ -1,13 +1,13 @@
-name = "Serene Seasons - HarvestCraft 2 Compat"
-filename = "sereneseasonsphc2-1.16.5-1.1.0.jar"
+name = "Serene Seasons - Pam's HarvestCraft 2: Crops Compat"
+filename = "sereneseasonsphc2crops-1.16.5-1.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "27f24b20f3f1027f22bc5883b21bf4442e793485"
+hash = "0e3c00911d926e3e6ecf07a1785f57b59ac6029d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3926219
+file-id = 4124185
 project-id = 549716

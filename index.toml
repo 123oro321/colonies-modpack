@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/terraforged.pw.toml"
-hash = "432a8aedfca5b01c79c0a295ea292ce4e1d7a94ec001a8192d5371783c1b0c2f"
+hash = "7bbf54434862a6dd542312aad3b18ae97a52a6c3aa09abaff23015ccb50674e0"
 metafile = true
 
 [[files]]

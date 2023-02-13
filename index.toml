@@ -70,11 +70,11 @@ hash = "48b564c1f3aa70e7e0d470e536c82d843d3c1f90bf50bbec272ec974fc92b960"
 
 [[files]]
 file = "config/terraforged/general.conf"
-hash = "87e3ee094351305742720458fa7008a793dacff43a66193dcf25a8e71542ba1d"
+hash = "3861656f378b73c97e5635b764657db335be2cc07050e17aa5bf6862bdf26897"
 
 [[files]]
 file = "config/terraforged/presets/Colony.json"
-hash = "49a8e49b399a5fcfda8a36c6fd0bda56c5a1dfda387d2aad6262b45b0bec49d4"
+hash = "87842cde86407bafb6d2cb7e30cdb3a676da7a38410ad897651d793bc41803ad"
 
 [[files]]
 file = "config/totaldarkness-client.toml"

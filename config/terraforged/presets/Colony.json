@@ -209,17 +209,22 @@
   },
   "world": {
     "continent": {
-      "continentType": "MULTI",
+      "continentType": "MULTI_IMPROVED",
       "continentShape": "EUCLIDEAN",
       "continentScale": 7015,
-      "continentJitter": 0.8
+      "continentJitter": 0.8,
+      "continentSkipping": 0.25,
+      "continentSizeVariance": 0.25,
+      "continentNoiseOctaves": 5,
+      "continentNoiseGain": 0.259,
+      "continentNoiseLacunarity": 4.328
     },
     "controlPoints": {
-      "deepOcean": 0.1,
-      "shallowOcean": 0.25,
-      "beach": 0.326,
-      "coast": 0.448,
-      "inland": 0.5
+      "deepOcean": 0.05,
+      "shallowOcean": 0.21,
+      "beach": 0.325,
+      "coast": 0.445,
+      "inland": 0.545
     },
     "properties": {
       "spawnType": "CONTINENT_CENTER",

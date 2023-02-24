@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamictrees.pw.toml"
-hash = "9ec62583a2c06f0ce95a9b211c9c91f9f8369718c5bd35b81c4b4adf56a309ef"
+hash = "ac32358b047cf029f23be24c88739d1e1da21364af000d080b6b6a595068f30b"
 metafile = true
 
 [[files]]
@@ -224,6 +224,11 @@ metafile = true
 [[files]]
 file = "mods/hourglass.pw.toml"
 hash = "28b8700c05707c444b4651ab46bf1b33293357192670194d28b35738a7791c36"
+metafile = true
+
+[[files]]
+file = "mods/immersive-snow.pw.toml"
+hash = "4855a4f14c74d38cbb6ae91282058874dce8bd925894834fe3f8027a4d6252b3"
 metafile = true
 
 [[files]]
@@ -308,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
-hash = "4dae0a34994dab564d160eb060de25a3435389ed9e9966d5270732fb37d37a33"
+hash = "74bbefa36a3b7217742383132a0522f433639606339295cb0da27d562fc171a1"
 metafile = true
 
 [[files]]

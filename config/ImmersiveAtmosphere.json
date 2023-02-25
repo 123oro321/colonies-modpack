@@ -1,0 +1,8 @@
+{
+  "chunksToProcessPerTick": 6,
+  "playerJoinRadius": 7,
+  "memoryDuration": 600,
+  "enableHourglassChangingDayNightCycle": true,
+  "hourglassDaySpeed": 0.3,
+  "hourglassNightSpeed": 0.3
+}

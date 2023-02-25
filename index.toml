@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ImmersiveAtmosphere.json"
+hash = "b8bbab55a75146790e2b721cc54e995a60a7d2e5e5af2135259b5328f961e79c"
+
+[[files]]
 file = "config/YungsExtras-forge-1_16.toml"
 hash = "b665935e247ef5a0838173bfac19cf52fe08b85957545256ba9955b4c7a15730"
 

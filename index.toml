@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-snow.pw.toml"
-hash = "4855a4f14c74d38cbb6ae91282058874dce8bd925894834fe3f8027a4d6252b3"
+hash = "28d717f1ff2163e6c024dbf5f0d556e4857768a3f4a66ad463b7845b8d016eb1"
 metafile = true
 
 [[files]]

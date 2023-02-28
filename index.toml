@@ -90,7 +90,7 @@ hash = "c6d61758fab596edc9a33471fe1dd97d1537ab78579cf0ddda4feda81b7acb38"
 
 [[files]]
 file = "defaultconfigs/dynamictrees-server.toml"
-hash = "acea463dad1c4cb6cec9d6e9c931c2d6ebfcdb63c4366cdc3c5d6f01a4abf314"
+hash = "afe4d9c743c7597227fbb886001f82527424140b4fe5bf597fcc4ae1b4e153aa"
 
 [[files]]
 file = "defaultconfigs/hourglass-server.toml"

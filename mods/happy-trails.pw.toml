@@ -1,0 +1,13 @@
+name = "Happy Trails"
+filename = "HappyTrails-1.16.5-1.36.0.9b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c77ccb3069b63fcf9db04a1bf1008c7f37e73d8a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3737617
+project-id = 373403

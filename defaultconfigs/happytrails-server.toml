@@ -1,0 +1,12 @@
+
+["Happy Trail Control Values"]
+	#Debug Level: 0 = Off, 1 = Log, 2 = Chat+Log
+	#Range: 0 ~ 2
+	debugLevel = 0
+	#Particles On: [true] / false
+	particlesOn = false
+
+["Trail Values 6464"]
+	#Trail Block String 6464
+	defaultTrailBlocksActual = "minecraft:tall_grass,-30;biomesoplenty:bush,-22;minecraft:brick_stairs,12;biomesoplenty:desert_grass,-16;minecraft:stone_brick_slab,12;quark:marble_bricks,12;minecraft:cracked_nether_bricks,11;minecraft:blue_concrete,13;minecraft:large_fern,-30;quark:chiseled_diorite_bricks,12;quark:slate_bricks,12;minecraft:light_blue_concrete,13;quark:granite_bricks,12;quark:limestone_bricks,12;minecraft:snow_block,-15;minecraft:grass_path,11;minecraft:green_concrete,13;minecraft:yellow_concrete,13;minecraft:gray_concrete,13;quark:chiseled_slate_bricks,12;quark:chiseled_jasper_bricks,12;quark:chiseled_granite_bricks,12;quark:chiseled_limestone_bricks,12;minecraft:light_gray_concrete,13;quark:jasper_bricks,12;minecraft:chiseled_stone_bricks,12;biomesoplenty:barley,-30;structurize:cream_bricks,12;structurize:brown_bricks,12;minecraft:mossy_stone_bricks,11;minecraft:magenta_concrete,13;minecraft:grass_block,-12;minecraft:snow,-22;minecraft:pink_concrete,13;biomesoplenty:lavender,-22;minecraft:cracked_stone_bricks,11;minecraft:netherrack,-12;minecraft:sand,-22;structurize:cream_stone_bricks,12;structurize:beige_stone_bricks,12;minecraft:red_sand,-22;minecraft:stone_bricks,12;quark:myalite_bricks,12;minecraft:nether_bricks,12;minecraft:red_concrete,13;minecraft:black_concrete,13;quark:chiseled_myalite_bricks,12;quark:chiseled_basalt_bricks,12;minecraft:purple_concrete,13;minecraft:white_concrete,13;minecraft:orange_concrete,13;minecraft:red_nether_bricks,12;quark:andesite_bricks,12;quark:basalt_bricks,12;minecraft:brown_concrete,13;minecraft:brick_slab,12;minecraft:bricks,12;minecraft:infested_stone_bricks,12;minecraft:grass,-22;structurize:brown_stone_bricks,12;minecraft:cyan_concrete,13;structurize:beige_bricks,12;minecraft:stone_brick_stairs,12;quark:chiseled_andesite_bricks,12;minecraft:gravel,11;minecraft:lime_concrete,13;minecraft:chiseled_nether_bricks,12;quark:diorite_bricks,12;quark:chiseled_marble_bricks,12;"
+

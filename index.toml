@@ -93,6 +93,10 @@ file = "defaultconfigs/dynamictrees-server.toml"
 hash = "afe4d9c743c7597227fbb886001f82527424140b4fe5bf597fcc4ae1b4e153aa"
 
 [[files]]
+file = "defaultconfigs/happytrails-server.toml"
+hash = "761ab2b742a377fb5f0c175220b987139f90ef8ee8abcba60f7434acfa2befd3"
+
+[[files]]
 file = "defaultconfigs/hourglass-server.toml"
 hash = "80788beca32eae9b44ae35f6f098d08c43646b599aae469ac6496f420e919813"
 
@@ -128,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0d210e83c7140eafbbd0366b257a256b9ce42eab8d9d729efa3a41bf1ba9723b"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "94c7ba94c569158a3d55f67820f98c9947ca87f89d8a1aa8ebac3b37abec5783"
 metafile = true
 
 [[files]]
@@ -223,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "64d4aadd7bbff44567028c442080f9df5ee98a289d14423e752562b0be6ff3e2"
+metafile = true
+
+[[files]]
+file = "mods/happy-trails.pw.toml"
+hash = "db60f7e0fd6a9808b7f972364ffcba73941039c072dadbdfbf23b865994d3b9f"
 metafile = true
 
 [[files]]
